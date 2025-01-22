@@ -1,9 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Firefox;
-using OpenQA.Selenium.Support.UI;
 using SeleniumCsharp.pages;
-using System;
 namespace SeleniumCsharp.tests
 {
     public class Tests
