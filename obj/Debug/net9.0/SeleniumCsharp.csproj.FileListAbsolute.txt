@@ -102,3 +102,8 @@ C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\obj\Debug\net9.
 C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\obj\Debug\net9.0\SeleniumCsharp.pdb
 C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\obj\Debug\net9.0\SeleniumCsharp.genruntimeconfig.cache
 C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\obj\Debug\net9.0\ref\SeleniumCsharp.dll
+C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\obj\Debug\net9.0\SeleniumCsharp.sourcelink.json
+C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\bin\Debug\net9.0\AngleSharp.dll
+C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\bin\Debug\net9.0\SeleniumExtras.PageObjects.dll
+C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\bin\Debug\net9.0\ICSharpCode.SharpZipLib.dll
+C:\Users\bara.amarneh\learnSeleium\SeleniumCsharp\SeleniumCsharp\bin\Debug\net9.0\WebDriverManager.dll

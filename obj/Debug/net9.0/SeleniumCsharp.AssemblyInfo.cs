@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75ced9f1ef3c818dcd5245ed3126a81b382cb345")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
