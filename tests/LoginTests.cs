@@ -9,6 +9,10 @@ namespace SeleniumCsharp.tests
     public class Tests
 
     {
+        private string Email = "bara.amarneh@exalt.ps";
+        private string Password = "5465123Moaz";
+
+
         private IWebDriver driver;
         [OneTimeSetUp]
         public void Setup()
@@ -24,9 +28,9 @@ namespace SeleniumCsharp.tests
         {
             LoginPage loginPage = new LoginPage(driver);
             loginPage.NevgateToPage();
-            MyAccountPage myAccountPage = loginPage.Login("bara.amarneh@exalt.ps", "5465123Moaz");
+            MyAccountPage myAccountPage = loginPage.Login(Email, Password);
             myAccountPage.VerifyPageTitle();
-            myAccountPage.VerifyEmailInPage("bara.amarneh@exalt.ps");
+            myAccountPage.VerifyEmailInPage(Email);
         }
         [TearDown]
 
